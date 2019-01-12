@@ -18,6 +18,6 @@
         "wp-coding-standards/wpcs": "^0.14.0"
     },
     "autoload": {
-        "files": [ "src/WPConfigTransformer.php" ]
+        "classmap": [ "src/WPConfigTransformer.php" ]
     }
 }
